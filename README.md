@@ -1,16 +1,31 @@
-## Hi there 👋
+# Pedro Gitahy
 
-<!--
-**pedrogitahy-qa/pedrogitahy-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer focused on automated testing and quality-driven development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Test Automation
+- Cypress
+- JavaScript
+- API Testing
+- Test Strategy
+
+## Featured Project
+
+### Cypress E2E Tests — Real World App
+
+End-to-end test automation project based on the Real World App banking simulation.
+
+Technologies used:
+
+- Cypress
+- JavaScript
+- Node.js
+
+Repository:
+https://github.com/pedrogitahy-qa/real-world-app-cypress-tests
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/pegitahy/
