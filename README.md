@@ -27,5 +27,8 @@ https://github.com/pedrogitahy-qa/real-world-app-cypress-tests
 
 ## Contact
 
-LinkedIn:
-https://www.linkedin.com/in/pegitahy/
+LinkedIn  
+https://www.linkedin.com/in/seu-link
+
+Email  
+pedrogitahy.qa@protonmail.com
