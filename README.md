@@ -13,7 +13,7 @@ I build automation projects to explore test strategy, API testing, and scalable 
 
 ## Featured Project
 
-### Cypress E2E Tests — Real World App
+### Cypress E2E Tests
 
 Featured Projects
 
