@@ -1,6 +1,7 @@
 # Pedro Gitahy
 
 QA Automation Engineer in training focused on automated testing, quality engineering and modern SDLC practices.
+
 I build automation projects to explore test strategy, API testing, and scalable test architectures.
 
 ## Skills
@@ -11,8 +12,9 @@ I build automation projects to explore test strategy, API testing, and scalable 
 - API Testing
 - Test Strategy
 
-## 🚀 Key QA Automation Projects
+## Key QA Automation Projects
 
+---
 ### Cypress Real World App Tests
 End-to-end automation project based on the Real World App banking simulation.
 
@@ -20,7 +22,6 @@ Stack:
 - Cypress
 - JavaScript
 - Node.js
-
 ---
 
 ### Cypress Heroes Tests
@@ -30,6 +31,7 @@ Stack:
 - Cypress
 - JavaScript
 - E2E Testing
+---
 
 ## 📫 Contact
 
