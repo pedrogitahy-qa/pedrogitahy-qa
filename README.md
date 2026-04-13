@@ -1,6 +1,8 @@
 # Pedro Gitahy
 
-QA Automation Engineer focused on automated testing and quality-driven development.
+QA Automation Engineer in training focused on automated testing and software quality.
+
+I build automation projects to explore test strategy, API testing, and scalable test architectures.
 
 ## Skills
 
@@ -14,21 +16,17 @@ QA Automation Engineer focused on automated testing and quality-driven developme
 
 ### Cypress E2E Tests — Real World App
 
+Featured Projects
+
+Cypress E2E Tests — Real World App
+
 End-to-end test automation project based on the Real World App banking simulation.
+Demonstrates automated testing strategies, realistic financial flows, and Cypress-based test architecture.
 
-Technologies used:
+Cypress E2E Tests — Cypress Heroes
 
-- Cypress
-- JavaScript
-- Node.js
-
-Repository:
-https://github.com/pedrogitahy-qa/real-world-app-cypress-tests
-
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/pegitahy/
+Automated UI testing project using the Cypress Heroes demo application.
+Focus on test structure, reusable commands, and scalable automation practices.
 
 Email  
 pedrogitahy.qa@protonmail.com
