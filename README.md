@@ -15,8 +15,6 @@ I build automation projects to explore test strategy, API testing, and scalable 
 
 ### Cypress E2E Tests
 
-Featured Projects
-
 Cypress E2E Tests — Real World App
 
 End-to-end test automation project based on the Real World App banking simulation.
@@ -29,3 +27,6 @@ Focus on test structure, reusable commands, and scalable automation practices.
 
 Email  
 pedrogitahy.qa@protonmail.com
+
+LinkedIn
+linkedin.com/in/pegitahy/
