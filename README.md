@@ -1,7 +1,6 @@
 # Pedro Gitahy
 
 QA Automation Engineer in training focused on automated testing and software quality.
-
 I build automation projects to explore test strategy, API testing, and scalable test architectures.
 
 ## Skills
