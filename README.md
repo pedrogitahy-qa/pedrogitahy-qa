@@ -12,7 +12,7 @@ I build automation projects to explore test strategy, API testing, and scalable 
 - API Testing
 - Test Strategy
 
-##  Key QA Automation Projects
+## ⭐ Key QA Automation Projects
 
 ---
 ### Cypress Real World App Tests
