@@ -4,7 +4,7 @@ QA Automation Engineer in training focused on automated testing, quality enginee
 
 I build automation projects to explore test strategy, API testing, and scalable test architectures.
 
-## ⚙️ Skills
+## Skills
 
 - Test Automation
 - Cypress
@@ -32,7 +32,7 @@ Stack:
 - E2E Testing
 ---
 
-## 📫 Contact
+## Contact
 
 LinkedIn  
 https://linkedin.com/in/pegitahy
