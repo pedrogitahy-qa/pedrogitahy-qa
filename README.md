@@ -38,4 +38,4 @@ LinkedIn
 https://linkedin.com/in/pegitahy
 
 Email  
-pedrogitahy.qa@protonmail.com
+pedrogitahy.qa@gmail.com
